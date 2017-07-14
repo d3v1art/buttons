@@ -1,14 +1,1 @@
-body {background:#f8f8f8;font-family: sans-serif;font-size:14px;color:#454545;}
-.section {
-    max-width:800px;
-    background:#fff;
-    box-sizing: border-box;
-    padding:25px;
-    margin: auto;
-    margin-bottom:25px;
-    border:1px solid #f4f4f4;
-    box-shadow: 0px 3px 0px rgba(0,0,0,0.02);
-}
-.section:first-child {margin-top:50px;}
-/*/*/
 .but--ver-01 {}
