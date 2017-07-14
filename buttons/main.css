@@ -8,5 +8,6 @@ body {background:#f8f8f8;font-family: sans-serif;font-size:14px;color:#454545;}
     margin-bottom:25px;
     border:1px solid #f4f4f4;
     box-shadow: 0px 3px 0px rgba(0,0,0,0.02);
+    text-align: center;
 }
 .section:first-child {margin-top:50px;}
